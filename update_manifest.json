@@ -1,11 +1,11 @@
 {
-    "pkg_sha256": "af4ef050bb507dd60f6dead47b7a40cfc1838243f50a046c4808cc57fef115ac", 
+    "pkg_sha256": "fc2279bdc919781331fe6da82bfcf61102ed07c7aaeec451dcfc6139e7365962", 
     "version": "26.05.26", 
     "update_type": "full", 
     "pkg_url": "https://github.com/luvthatapex2/lov-updates/releases/download/latest-update/lov-gamecode_26.05.26.pkg", 
     "json_url": "", 
     "pkg_size": 1087200792, 
-    "release_date": "2026-05-26T17:32:41.361000", 
+    "release_date": "2026-05-26T17:37:55.842000", 
     "notes": "Legends of Valhalla game update 26.05.26", 
     "pkg_filename": "lov-gamecode_26.05.26.pkg"
 }
